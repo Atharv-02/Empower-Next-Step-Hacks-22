@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed639e3d.css",
+    "main.js": "/static/js/main.5f4360eb.js",
+    "static/js/787.de29c69a.chunk.js": "/static/js/787.de29c69a.chunk.js",
+    "static/media/Women-with-disability.jpeg": "/static/media/Women-with-disability.b2a78781eafe5d12ce55.jpeg",
+    "static/media/Widow-img.jpeg": "/static/media/Widow-img.c907bd78a22201b69185.jpeg",
+    "static/media/Widow-hero-img-1.jpeg": "/static/media/Widow-hero-img-1.5a350184ad75377ca825.jpeg",
+    "static/media/Logo.png": "/static/media/Logo.80a7cdad10b86b03a939.png",
+    "index.html": "/index.html",
+    "main.ed639e3d.css.map": "/static/css/main.ed639e3d.css.map",
+    "main.5f4360eb.js.map": "/static/js/main.5f4360eb.js.map",
+    "787.de29c69a.chunk.js.map": "/static/js/787.de29c69a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed639e3d.css",
+    "static/js/main.5f4360eb.js"
+  ]
+}
